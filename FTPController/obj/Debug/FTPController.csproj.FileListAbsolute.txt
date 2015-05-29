@@ -1,0 +1,9 @@
+E:\Projects\FTPController\FTPController\bin\Debug\FTPController.exe
+E:\Projects\FTPController\FTPController\bin\Debug\FTPController.pdb
+E:\Projects\FTPController\FTPController\obj\Debug\FTPController.csprojResolveAssemblyReference.cache
+E:\Projects\FTPController\FTPController\obj\Debug\FTPController.Form1.resources
+E:\Projects\FTPController\FTPController\obj\Debug\FTPController.Properties.Resources.resources
+E:\Projects\FTPController\FTPController\obj\Debug\FTPController.csproj.GenerateResource.Cache
+E:\Projects\FTPController\FTPController\obj\Debug\FTPController.exe
+E:\Projects\FTPController\FTPController\obj\Debug\FTPController.pdb
+E:\Projects\FTPController\FTPController\bin\Debug\config.xml
